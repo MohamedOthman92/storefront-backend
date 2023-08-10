@@ -1,0 +1,16 @@
+{
+  "dev": {
+    "driver": "pg",
+    "host": "localhost",
+    "database": "music_storefront",
+    "user": "store_user",
+    "password": "store123"
+  },
+  "test": {
+    "driver": "pg",
+    "host": "localhost",
+    "database": "music_storefront_test",
+    "user": "store_user",
+    "password": "store123"
+  }
+}
